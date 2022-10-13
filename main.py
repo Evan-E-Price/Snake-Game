@@ -5,6 +5,7 @@ from Scoreboard import Scoreboard
 import time
 
 
+
 screen = Screen()
 screen.title("Snake")
 screen.setup(width=600, height=600)
